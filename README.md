@@ -1,17 +1,16 @@
-# word-ending
+## Simple Vue directive for numeric words' ending
 
-> vue.js alert plugin
+### Installing
 
-## Installing
+> Set as package.json dependency: "word-ending": "bitbucket:Uhanov/vue-word-ending"
 
-Set as package.json dependency: "vue-word-ending": "bitbucket:Uhanov/vue-word-ending"
-
-## Import
+### Import
 
 import wordEnding from 'word-ending'
+
 Vue.use(wordEnding)
 
-## Usage
+### Usage
 
 ```
 <span v-word-ending="[['заказ', 'заказа', 'заказов'], count]"></span>
