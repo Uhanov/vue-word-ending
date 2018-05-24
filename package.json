@@ -1,0 +1,24 @@
+{
+  "name": "word-ending",
+  "version": "1.0.0",
+  "description": "Simple Vue directive for numeric words' ending",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/Uhanov/vue-word-ending.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "word",
+    "ending",
+    "numeric",
+    "words"
+  ],
+  "author": "ruvdex@gmail.com",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Uhanov/vue-word-ending#readme"
+}
